@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+agentds-bench
+ipykernel
+lightgbm 
+sentence-transformers
+matplotlib
+torchvision>=0.24.0
+implicit
+lightfm
+pdfplumber
+surprise
